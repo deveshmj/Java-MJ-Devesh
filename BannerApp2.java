@@ -1,4 +1,4 @@
-public class BannerApp {
+public class BannerApp2 {
 
     public static void main(String[] args) {
 
@@ -11,4 +11,5 @@ public class BannerApp {
         System.out.println("   ***   " + "   " + "   ***   " + "   " + " **      " + "   " + "  *****  ");
     }
 }
+
 
